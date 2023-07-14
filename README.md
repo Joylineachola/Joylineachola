@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joyline Achola a captivating and visionary data scientist with a deep passion for unraveling the mysteries of the digital realm.
+- 👋 Hi, I’m @Joyline Achola a captivating and visionary data scientist.
 - 👀 I’m interested in machine learning, data visualization, natural language processing, big data analytics, and data mining.
 - 🌱 I’m currently focused on mastering Python, advancing in SQL, deepening my understanding of machine learning, and refining my skills in data visualization.
 - 💞️ I’m looking to collaborate with fellow data enthusiasts on exciting projects and initiatives.
